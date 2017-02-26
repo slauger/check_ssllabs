@@ -1,3 +1,3 @@
 # check_ssllabs Nagios Plugin
 
-Documentation follows as soon as possible.
+Nagios plugin for testing your SSL grade on ssllabs.com.
